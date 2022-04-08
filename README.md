@@ -1,4 +1,4 @@
-<img align="center" src="./img/banner.png" />
+<img align="center" src="./img/banner.PNG" />
 <h1></h1> 
 <h2 > ❤️ Code Lover ❤️</h2> 
 
