@@ -59,12 +59,12 @@
 <h1></h1> 
 <h2>Backend Development:</h2>
 <p float="left">
-<img style="filter: invert(79%) sepia(43%) saturate(182%) hue-rotate(130deg) brightness(82%) contrast(86%); drop-shadow(0px 0px 20px rgb(0 0 0 / 0.9))" width="60px" src="./icons/nodedotjs.svg" />
+ <img style="filter: invert(79%) sepia(43%) saturate(182%) hue-rotate(130deg) brightness(82%) contrast(86%); drop-shadow(0px 0px 20px rgb(0 0 0 / 0.9))" width="60px" src="./icons/nodedotjs.svg" />
 <img style="filter: invert(79%) sepia(43%) saturate(182%) hue-rotate(130deg) brightness(82%) contrast(86%); drop-shadow(0px 0px 20px rgb(0 0 0 / 0.9))" width="60px" src="./icons/spring.svg" />
 <img style="filter: invert(79%) sepia(43%) saturate(182%) hue-rotate(130deg) brightness(82%) contrast(86%); drop-shadow(0px 0px 20px rgb(0 0 0 / 0.9))" width="60px" src="./icons/springboot.svg" />
 <img style="filter: invert(79%) sepia(43%) saturate(182%) hue-rotate(130deg) brightness(82%) contrast(86%); drop-shadow(0px 0px 20px rgb(0 0 0 / 0.9))" width="60px" src="./icons/springsecurity.svg" />
 <img style="filter: invert(79%) sepia(43%) saturate(182%) hue-rotate(130deg) brightness(82%) contrast(86%); drop-shadow(0px 0px 20px rgb(0 0 0 / 0.9))" width="60px" src="./icons/graphql.svg" />
-</p
+</p>
 
 <h1></h1> 
 <h2>Database:</h3>
