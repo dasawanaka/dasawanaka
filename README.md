@@ -12,8 +12,6 @@
 <li> Utility Discord Bot </li>
 </ul>
 
-<img align="right" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
-
 <h2 >🔭 Learning about</h2>
 <ul>
 <li>nuxtjs </li>
@@ -27,6 +25,8 @@
 <li>Kubernetes</li>
 <li>Grafana - monitoring my servers and their resources</li>
 </ul>
+
+<img align="right" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
 
 <h2 >🎲 Hobbies </h2>
 
