@@ -37,34 +37,32 @@
 </ul>
 <h1></h1> 
 
-<h2>✨ Programming Languages:</h3>
+<h3>✨ Programming Languages:</h3>
 <p>
-<h3> JAVA | JavaScript </h5>
+ <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+<h2></h2> 
+<h3>💎 Frontend Development:</h3>
+<p>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-<h1></h1> 
-<h2>💎 Frontend Development:</h2>
+<h2></h2> 
+<h3>🚀 Backend Development:</h3>
 <p>
-<h3> Vue | CSS3 | SASS | Bootstrap </h5>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> 
 </p>
 
-<h1></h1> 
-<h2>🚀 Backend Development:</h2>
+<h2></h2> 
+<h3>💿 Database:</h3>
 <p>
-<h3> nodeJS | Spring | Spring Boot | Spring Security | graphQL </h5>
+<img src="https://img.shields.io/badge/Apache%20Solr-D9411E.svg?style=for-the-badge&logo=Apache-Solr&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 
-
-<h1></h1> 
-<h2>💿 Database:</h3>
+<h2></h2>
+<h3>🛠️ Devops:</h3>
 <p>
-<h3> SOLR | mongoDB | Redis | Postgresql | SQLite | MySQL </h5>
-</p>
-
- <h1></h1>
-<h2>🛠️ Devops:</h3>
-<p>
-<h3> nginx | Docker | Jenkins </h5>
+<img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white">
 </p>
 
  <h1></h1>
@@ -83,5 +81,5 @@
 
 <h1></h1>
 <h2>Links to the tools I used to create this readme</h3>
-<a href="https://simpleicons.org/">icons</a> | <a href="https://github-readme-streak-stats.herokuapp.com/demo/">github-readme-streak-stats</a> |  <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://emojipedia.org">emojipedia.org</a> | <a href="https://komarev.com/ghpvc/">github-profile-views-counter</a>
+<a href="https://home.aveek.io/GitHub-Profile-Badges/">profile badges</a> | <a href="https://github-readme-streak-stats.herokuapp.com/demo/">github-readme-streak-stats</a> |  <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://emojipedia.org">emojipedia.org</a> | <a href="https://komarev.com/ghpvc/">github-profile-views-counter</a>
 
