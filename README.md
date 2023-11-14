@@ -7,7 +7,6 @@
 <h2 >💼 I’m currently working on</h2>
 
 <ul>
-<li><a href="https://github.com/edmcouncil/onto-viewer">OntoViewer</a> - an open source Java application designed to access Ontology content in the simplest way possible </li>
 <li>I'm trying to create a chatbot that scrapes data from websites and learns from them</li>
 </ul>
 
