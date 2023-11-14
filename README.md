@@ -1,7 +1,7 @@
 <img align="center" src="./img/banner.PNG" />
 <h2 > ❤️ Code Lover ❤️</h2> 
 
-<p>I'm 26 years old and work as a Full Stack Developer at <strong><a href="https://makolab.com">Makolab S.A.</a></strong>
+<p>I'm 26 years old and work as a Full Stack Developer.
  I'm working on several side projects, learning new dishes, and trying to learn new and interesting technologies whenever I have free time.</p>
 
 <h2 >💼 I’m currently working on</h2>
