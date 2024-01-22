@@ -70,7 +70,7 @@
 
 <ul>
 <li> email:  <a href="mailto:contact@michal-daniel.pl">contact@michal-daniel.pl</a> </li>
-<li>text to me on Discord <strong>Mychau#0001</strong></li>
+<li>text to me on Discord <strong>Mychau</strong></li>
 </ul>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dasawanaka&label=Profile%20views&color=8ab5b4&style=for-the-badge" alt="dasawanaka" /></p>
