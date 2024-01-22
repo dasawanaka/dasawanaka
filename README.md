@@ -10,16 +10,18 @@
 <li>I'm trying to create a chatbot that scrapes data from websites and learns from them</li>
 </ul>
 
+<!--
 <h2 >🔭 Learning about</h2>
 <ul>
 <li>nuxtjs </li>
 <li>Strapi</li>
 <li>Bulma</li>
 </ul>
+-->
 
 <h2 >🚧 I'm going to learn</h2>
 <ul>
-<li>React</li>
+<li>Godot</li>
 <li>Kubernetes</li>
 <li>Grafana - monitoring my servers and their resources</li>
 </ul>
