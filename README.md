@@ -68,7 +68,7 @@
 <h2>📫 Contact me</h2>
 
 <ul>
-<li> email:  <a href="mailto:contact@michal-daniel.pl">contact@michal-daniel.pl</a> </li>
+<li> email:  <a href="mailto:michal.19.daniel.96@gmail.com">michal.19.daniel.96@gmail.com</a> </li>
 <li>text to me on Discord <strong>Mychau</strong></li>
 </ul>
 
