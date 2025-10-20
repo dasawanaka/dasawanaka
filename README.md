@@ -1,8 +1,7 @@
 <img align="center" src="./img/banner.PNG" />
 <h2 > ❤️ Code Lover ❤️</h2> 
 
-<p>I'm 29 years old and work as a Full Stack Developer.
- I'm working on several side projects, learning new dishes, and trying to learn new and interesting technologies whenever I have free time.</p>
+<p>I'm 29 years old and work as a Developer.In my free time, I develop several side projects, from chat bots to n8n automation. I love trying to learn new and interesting technologies.</p>
 
 <h2 >💼 I’m currently working on</h2>
 
